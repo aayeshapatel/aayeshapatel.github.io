@@ -2,8 +2,8 @@
 
 
 ### Education 
-Mathematics , BSc
 Data science and Machine Learning , MSc
+Mathematics , BSc
 
 ## Projects
 ### Movie Reccomender System 
